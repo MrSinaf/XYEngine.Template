@@ -1,4 +1,4 @@
-# XYEngine Template v0.1
+# XYEngine Template v0.2
 
 Un simple template pour une utilisation rapide et facile du moteur XYEngine.
 
@@ -24,7 +24,6 @@ git clone https://github.com/MrSinaf/XYEngine.Template.git
 - `XYEngine` : Contient les fichiers du moteur.
 - `XYEngine.Template/Program.cs` : Point d'entrée du jeu.
 - `XYEngine.Template/assets/` : Contient les ressources nécessaires au jeu.
-- `XYEngine.Template/Scenes/` : Contient les différentes scènes du jeu.
 
 ## 🌐〉Liens utiles
 
